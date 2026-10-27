@@ -1,0 +1,5 @@
+pygame
+pillow
+pywin32==300
+requests>=2.32.4,<3
+parsel>=1.9,<2
